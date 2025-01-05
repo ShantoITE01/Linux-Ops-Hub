@@ -1,4 +1,4 @@
-#Setting a Static IP in Ubuntu Using Netplan:
+# Setting a Static IP in Ubuntu Using Netplan:
 
 Netplan is the Ubuntu network configuration tool in all recent Ubuntu versions. Netplan is based on a YAML-based configuration system that simplifies the configuration process.
 
