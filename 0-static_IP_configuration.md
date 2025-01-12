@@ -24,8 +24,9 @@ network:
 `ifconfig`
 
 **How to Configure Static IP Address on Ubuntu 22.04**
+first sudo su
 
-`vim /etc/netplan/01-network-manager-all.yaml`
+`nano /etc/netplan/00-installer-config.yaml`
 ```shell
 network:
   version: 2
