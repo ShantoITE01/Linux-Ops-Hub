@@ -16,8 +16,7 @@
    ```
   
 3. **Step 3: Setting Up Server Application Root.**
-   ```bash
-sudo mkdir -p /var/www/cloudopsschool.com
+   ```bash sudo mkdir -p /var/www/cloudopsschool.com
 
  ```
 4. **Step 4: Create a Sample index.html Page**
